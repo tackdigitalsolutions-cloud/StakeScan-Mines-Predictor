@@ -3,7 +3,7 @@ MinesPredictor Pro is the world’s most advanced signal-based algorithm designe
 
 Professional-grade prediction software for Stake.com. Utilizing high-frequency blockchain data analysis and AI-driven pattern recognition to gain an edge in Mines and other casino originals.
 
-**RAR PASSWORD - stakescan
+**RAR PASSWORD - stakescan**
 
 
 # :tv: Video Tutorial & Preview
